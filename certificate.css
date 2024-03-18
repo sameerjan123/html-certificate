@@ -1,0 +1,23 @@
+body{
+    /* background-color: black; */
+
+}
+
+.certificateDiv{
+    background-color: darkslategray;
+    height: 90vh;
+    
+}
+
+.heading1{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: monospace;
+    color: orange;
+    margin-bottom: 1vh;
+}
+
+.logoImage{
+    width: 15vh;
+}
+  
